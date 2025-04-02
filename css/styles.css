@@ -29,7 +29,7 @@ header figure {
 }
 
 header figure img {
-  width: 170px;
+  width: 150px;
 }
 
 header figcaption {
@@ -66,7 +66,6 @@ header nav ul a {
   font-weight: normal;
   max-width: 70%;
   margin: 0;
-  margin-bottom: 20px;
 }
 
 .hero h1 span {
@@ -81,7 +80,7 @@ header nav ul a {
   font-style: normal;
   font-weight: 400;
   max-width: 75%;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .hero__content a {
@@ -126,7 +125,7 @@ header nav ul a {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .categories {
